@@ -18,7 +18,7 @@ npm install
 # or
 yarn install
 
-Development 🛠️
+## Development 🛠️
 To start the development server, run the following command:
 
 Copy code
@@ -27,7 +27,7 @@ npm run dev
 yarn dev
 This will start the server and watch for changes in the code.
 
-Production 🚀
+## Production 🚀
 To build the production version of the server, run the following command:
 
 Copy code
@@ -38,36 +38,34 @@ This will compile the TypeScript code and output the result to the build directo
 
 To start the production server, run the following command:
 
-Copy code
 npm start
 # or
 yarn start
-Linting 🧹
+## Linting 🧹
 To lint the code, run the following command:
 
-Copy code
 npm run lint
 # or
 yarn lint
-Testing 🧪
+
+## Testing 🧪
 To run the tests, run the following command:
 
-Copy code
 npm test
 # or
 yarn test
-Configuration 🛠️
+## Configuration 🛠️
 The following files and directories contain configuration for the server:
 
 tsconfig.json: TypeScript configuration
 .eslintrc.json: ESLint configuration
 .prettierrc.json: Prettier configuration
 src/app.ts: The entry point for the server
-License 📜
+
+## License 📜
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgements 🙏
+## Acknowledgements 🙏
 Node.js
 Express.js
 TypeScript
-Copy code
