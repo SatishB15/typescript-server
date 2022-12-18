@@ -17,43 +17,56 @@ To install the dependencies, run the following command:
 npm install
 # or
 yarn install
+```
 
 ## Development 🛠️
 To start the development server, run the following command:
 
-Copy code
+```bash
 npm run dev
 # or
 yarn dev
+```
+
 This will start the server and watch for changes in the code.
 
 ## Production 🚀
 To build the production version of the server, run the following command:
 
-Copy code
+```bash
 npm run build
 # or
 yarn build
+```
+
 This will compile the TypeScript code and output the result to the build directory.
 
 To start the production server, run the following command:
 
+```bash
 npm start
 # or
 yarn start
+```
+
 ## Linting 🧹
 To lint the code, run the following command:
 
+```bash
 npm run lint
 # or
 yarn lint
+```
 
 ## Testing 🧪
 To run the tests, run the following command:
 
+```bash
 npm test
 # or
 yarn test
+```
+
 ## Configuration 🛠️
 The following files and directories contain configuration for the server:
 
@@ -65,7 +78,7 @@ src/app.ts: The entry point for the server
 ## License 📜
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Acknowledgements 🙏
+## Acknowledgements 
 Node.js
 Express.js
 TypeScript
