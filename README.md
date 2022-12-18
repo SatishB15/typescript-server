@@ -2,7 +2,13 @@
 
 ![Node.js logo](https://nodejs.org/static/images/logo-light.svg)
 
-This is a template repository for building a Node.js Express server with TypeScript. It includes the necessary dependencies, configuration, and scripts to get started quickly.
+Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to run JavaScript on the server-side, creating applications that can be run on any device with a web browser.
+
+TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. It adds features like classes, interfaces, and type annotations, which can help make code easier to read and maintain.
+
+Express is a minimal and flexible Node.js web application framework that provides a range of features for building web applications and APIs. It is designed to be easy to use and helps developers create APIs and server-side applications quickly.
+
+Together, Node.js, TypeScript, and Express make it easy to build scalable and performant web applications and APIs using JavaScript.
 
 ## Prerequisites 🧑‍💻
 
