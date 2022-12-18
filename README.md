@@ -1,2 +1,19 @@
-# typescript-server
-A Node.js Express TypeScript server is a server built using the Node.js runtime, the Express.js framework, and the TypeScript programming language. It allows you to build scalable and maintainable web applications using the benefits of all three technologies.
+# Node.js Express TypeScript Server 🚀
+
+![Node.js logo](https://nodejs.org/static/images/logo-light.svg)
+
+This is a template repository for building a Node.js Express server with TypeScript. It includes the necessary dependencies, configuration, and scripts to get started quickly.
+
+## Prerequisites 🧑‍💻
+
+- Node.js 💻
+- npm or yarn 📦
+
+## Installation 💾
+
+To install the dependencies, run the following command:
+
+```bash
+npm install
+# or
+yarn install
